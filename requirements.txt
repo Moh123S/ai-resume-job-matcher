@@ -10,3 +10,4 @@ sentence-transformers
 streamlit
 pdfminer.six
 pymupdf
+ipykernel
