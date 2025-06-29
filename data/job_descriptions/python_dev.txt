@@ -1,0 +1,2 @@
+Seeking a Python Developer with experience in Django, Flask, REST APIs, and backend development.
+Knowledge of databases and data structures is a plus.

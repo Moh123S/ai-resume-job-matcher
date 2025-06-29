@@ -1,0 +1,2 @@
+ML Engineer with strong skills in python , TensorFlow, Scikit-learn, and model deployment.
+Should be familiar with deep learning , CNNs, LSTMs, and REST API integration.
